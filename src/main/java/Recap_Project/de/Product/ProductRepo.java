@@ -1,4 +1,7 @@
-package Recap_Project.de;
+package Recap_Project.de.Product;
+
+
+import Recap_Project.de.Product.Product;
 
 import java.util.ArrayList;
 import java.util.List;
